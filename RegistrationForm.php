@@ -2,7 +2,6 @@
 
 
 
-
 namespace dektrium\user\models;
 
 use dektrium\user\traits\ModuleTrait;
