@@ -1,7 +1,7 @@
 <?php
 
-/** 
- */
+
+
 
 namespace dektrium\user\models;
 
